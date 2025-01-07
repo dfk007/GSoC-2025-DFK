@@ -1,4 +1,4 @@
-A detailed guide on applying to GSoC 2025, including information about stipends, timelines, and [preparation steps](./Steps-for-gsoc2025.md) - : 
+Detailed guide on applying to GSoC 2025, including information about stipends, timelines, and preparation steps - <u>SIMPLILEARN</u>:
 
 ------
 
@@ -94,7 +94,5 @@ A detailed guide on applying to GSoC 2025, including information about stipends,
 ### **Why GSoC?**
 
 Participating in GSoC can shape your career by providing hands-on experience in software development, mentorship from industry experts, and an opportunity to contribute to impactful projects. It’s a transformative journey that enhances your technical skills, problem-solving abilities, and professional network.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/27b76b4b-7c8e-4c84-ad3f-d8e8dc4150f1/deploy-status)](https://app.netlify.com/sites/neon-palmier-5ae68b/deploys)
 
 Good luck with your GSoC 2025 journey!
