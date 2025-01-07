@@ -36,7 +36,7 @@ Google Summer of Code (GSoC) is a global program that introduces contributors to
 
 ------
 
-### **Timeline**
+### **[Timeline](https://developers.google.com/open-source/gsoc/timeline)**
 
 1. **Announcement of Organizations** (Late February 2025):
 	- Google publishes the list of participating organizations on the GSoC website.
